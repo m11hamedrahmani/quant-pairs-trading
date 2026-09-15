@@ -50,7 +50,7 @@ quant-pairs-trading/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/quant-pairs-trading.git
+git clone https://github.com/m11hamedrahmani/quant-pairs-trading.git
 cd quant-pairs-trading
 
 # 2. Install dependencies
@@ -118,4 +118,4 @@ The backtest reports:
 
 **Mohamed Rahmani**  
 Bachelor in Technology & Management — ESILV (Paris La Défense)  
-[LinkedIn](https://linkedin.com/in/YOUR_PROFILE) · [GitHub](https://github.com/YOUR_USERNAME)
+[LinkedIn](https://www.linkedin.com/in/mohamed-rahmani11/) · [GitHub](https://github.com/m11hamedrahmani)
